@@ -1,4 +1,4 @@
-name := "oAdaboost"
+name := "EMiODC"
 
 version := "1.0"
 

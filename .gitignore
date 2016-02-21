@@ -1,0 +1,12 @@
+.history
+*~
+.DS_Store
+.dir-locals.el
+.ensime
+.ensime_cache
+.idea
+.idea_modules
+.lib
+.sbtrc
+.vagrant
+target/
